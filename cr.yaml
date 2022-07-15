@@ -1,0 +1,6 @@
+apiVersion: "k8s.maxgio.me/v1alpha1"
+kind: "Project"
+metadata:
+  name: "example-project"
+spec:
+  replicas: 2
